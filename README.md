@@ -12,3 +12,7 @@
 - ✅ Optional validation/error message below the field
 - ✅ Clean, reusable, and configurable design
 - ✅ Works seamlessly in dynamic forms with multiple inputs
+- 
+## 📸 Preview
+
+<img src="demo.gif" width="300" alt="FloatingInputField preview"/>
